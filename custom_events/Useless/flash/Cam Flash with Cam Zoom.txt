@@ -1,0 +1,4 @@
+Value1: Flash color (Hex color code)
+Value2: Cam Zoom
+
+Event by yuri
