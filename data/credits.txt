@@ -1,0 +1,4 @@
+MOD PACK CREDITS
+Yuri::yuriwasNOThere::Made all events and scripts (except the Message Alert event)::https://www.youtube.com/@euYuri12::FF8C00
+
+RealReal::real::Made Message Alert event :p that's all::https://www.youtube.com/c/RealReal0::FF0000
