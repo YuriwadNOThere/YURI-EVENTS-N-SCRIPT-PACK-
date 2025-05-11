@@ -1,0 +1,6 @@
+Value1: Cam Flash color, default color is white 
+(use hex color code btw)
+
+Value2: Does absolutely nothing
+
+Event by Yuri
