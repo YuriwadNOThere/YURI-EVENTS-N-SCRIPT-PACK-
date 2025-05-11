@@ -1,0 +1,2 @@
+Value1: Character Type (bf, dad or gf)
+Value2: Fading Speed

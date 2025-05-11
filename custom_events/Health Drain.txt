@@ -1,0 +1,2 @@
+Value1: How much health is drained for player when 
+opponent sings (Default Value is 0.01)

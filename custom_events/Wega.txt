@@ -1,0 +1,2 @@
+Value1: Image Jumpscare
+Value2: Jumpscare sound

@@ -1,0 +1,2 @@
+Value1: Fading Speed
+Value2: Nothing

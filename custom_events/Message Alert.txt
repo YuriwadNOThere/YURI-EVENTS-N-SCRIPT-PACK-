@@ -1,0 +1,2 @@
+Value1: Window Message name
+Value2: Window Message info
